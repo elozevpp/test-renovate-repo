@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/elozevpp/test-renovate-repo#readme",
   "dependencies": {
-    "mongoose": "^5.13.14"
+    "mongoose": "^6.0.0"
   }
 }
